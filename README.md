@@ -4,10 +4,11 @@ A Simple High Precision Calculator Project That Can run in other software, Based
 
 Go To Release Page
 
-That two version
+That three version
 ---------------
 android (apk)
 windows (exe)
+Linux Debian Ubuntu Kali (zip or bash)
 ---------------
 This Is Examples
 
