@@ -1,20 +1,25 @@
-# Infinitor
-A Simple High Precision Calculator Project That Can run in other software, Based Python
+## 📱 Infinitor: High Precision Calculator
 
+**Infinitor** adalah proyek kalkulator presisi tinggi berbasis Python, tersedia untuk berbagai platform:
 
-Go To Release Page
+### 📦 Versi:
 
-That three version
----------------
-android (apk)
-windows (exe)
-Linux Debian Ubuntu Kali (zip or bash)
----------------
-This Is Examples
+* 📱 Android (`.apk`)
+* 🖥️ Windows (`.exe`)
+* 🐧 Linux Debian/Ubuntu/Kali (`.zip` atau `.sh`)
 
+### 🎥 Contoh Penggunaan
 
-https://github.com/SecretDiscorder/Infinitor/assets/139457966/59604bff-6e7d-4e85-9549-aae26d21b58d
+📽️ Video demonstrasi penggunaan di Infinix Hot 12 Play (4GB RAM):
 
-file record Simulation on Infinix Hot 12 Play 4GB RAM
+---
 
-https://github.com/SecretDiscorder/Infinitor/blob/main/screen-20231026-183944.mp4
+## 📜 Lisensi
+
+Proyek ini dilisensikan di bawah [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+
+---
+
+## 👤 Kontributor
+
+* [SecretDiscorder](https://github.com/SecretDiscorder)
